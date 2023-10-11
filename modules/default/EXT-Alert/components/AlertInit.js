@@ -1,0 +1,1 @@
+class AlertConfig{constructor(e){if(e.config.debug&&(logALERT=(...e)=>{console.log("[ALERT]",...e)}),e.AlertDisplay=new AlertDisplay,e.AlertDisplay.prepareAlertPopup(),e.AlertCommander=new AlertCommander(e),!Array.isArray(e.config.ignore)){let o=e.config.ignore;e.config.ignore=[],o&&e.config.ignore.push(o)}console.log("[ALERT] AlertConfig Ready")}}

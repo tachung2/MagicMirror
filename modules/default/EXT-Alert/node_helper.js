@@ -1,0 +1,1 @@
+"use strict";var NodeHelper=require("node_helper");module.exports=NodeHelper.create({socketNotificationReceived:function(e,r){if("INIT"===e)console.log("[ALERT] EXT-Alert Version:",require("./package.json").version,"rev:",require("./package.json").rev)}});

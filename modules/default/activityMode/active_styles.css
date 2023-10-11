@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.icon:active {
+    opacity: 0.7;
+}
+
+.main_container {
+    width: 50%;
+    height: 200px;
+    background-color: gray;
+    opacity: 0.7;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+}
+
+.showscreen {
+    width: 400px;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
+    place-items: center;
+}

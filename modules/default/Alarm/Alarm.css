@@ -1,0 +1,11 @@
+.alarm-wrapper {
+    width: 50%;
+    height: 70px;
+    margin: 0 auto;
+    background-color: gray;
+    opacity: 0.7;
+    justify-self: center;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 1px solid white;
+}

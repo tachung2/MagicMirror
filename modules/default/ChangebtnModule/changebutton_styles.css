@@ -1,0 +1,10 @@
+.change-btn{
+	background: none;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.change-btn:active {
+	opacity: 0.5;
+}

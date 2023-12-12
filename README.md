@@ -17,7 +17,7 @@ Magic Mirror
 스마트미러에 들어갈 콘텐츠 및 최적화
 
 프로젝트 상세설명
-node.js로 서버를 구축하고 electron을 이용한 응용 프로그램\n
+node.js로 서버를 구축하고 electron을 이용한 응용 프로그램\
 js(javascript)의 Dom의 기능으로 html, css를 제작
 제공 기능
  - 알람
